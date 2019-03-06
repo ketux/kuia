@@ -1,7 +1,7 @@
 import React from 'react';
 import './style.css';
 import './AutoComplete.css';
-import axios from 'axios';
+//import axios from 'axios';
 
 const API_URL = 'https://api.themoviedb.org/3/search/movie?api_key=';
 const API_KEY = 'cab2afe8b43cf5386e374c47aeef4fca&language=en-US&query={query}';
